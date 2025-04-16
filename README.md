@@ -1,6 +1,10 @@
+# url for project
+
+https://final-todd-lee-cop4808s-projects.vercel.app/
+
 # Web Development Final Project - Hobby Hub
 
-Submitted by: Todd A. Lee
+Submitted by: Todd A. Lee z23500617
 
 What is your passion? What topic do you always love to learn more about and can't wait to share with everyone else? In this project, you will be building an entire forum surrounding your favorite topic, be it a sport, an academic subject, or a video game! Your web app will allow users to create posts and see a feed of them on the home page, edit, delete, or leave comments underneath them for discussions, and give upvotes for posts that you like! Take full creative control over the look and feel of the web app, and make sure to employ the web design principles that you learned! Ultimately, you will create an awesome forum for an online community for people who share your hobby!
 
