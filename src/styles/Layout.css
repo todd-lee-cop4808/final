@@ -1,0 +1,60 @@
+/* Top Bar (Header) */
+.topbar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 16px 24px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  .topbar-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #1a73e8;
+  }
+
+  .navbar {
+    display: flex;
+    gap: 16px;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    font-weight: 500;
+    color: #6366f1;
+    font-size: 0.95rem;
+    padding: 6px 8px;
+    transition: color 0.2s ease;
+  }
+  
+  .nav-link:hover {
+    color: #4f46e5;
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 40px 16px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 40px 0 20px;
+    font-size: 0.85rem;
+    color: #aaa;
+  }
+  

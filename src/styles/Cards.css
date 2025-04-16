@@ -1,0 +1,47 @@
+.card-wrapper {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .card-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .Card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    padding: 20px 24px;
+    transition: all 0.2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+
+  .card-link:hover .card-title {
+    color: #1f2937;
+  }
+  .card-meta {
+    font-size: 0.9rem;
+    color: #666;
+    margin: 0;
+  }
+  
+  .card-meta span {
+    font-weight: 500;
+    color: #0073e6;
+  }
+  
+  .card-title {
+    color: #374151;
+    font-size: 1.2rem;
+    font-weight: 600;
+    transition: color 0.2s ease;
+  }
+  .card-votes span {
+    font-size: 0.9rem;
+    color: #555;
+  }
